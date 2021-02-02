@@ -33,6 +33,7 @@ public class JavaApplication8 {
 	         System.out.printf("%4d%,20.3f%n", year, amount);
               }
 	    System.out.println("thank you");
+	    System.out.println("see you again!");
     }
     
 }
