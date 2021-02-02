@@ -34,6 +34,7 @@ public class JavaApplication8 {
               }
 	    System.out.println("thank you");
 	    System.out.println("see you again!");
+            System.out.println("new edit");
     }
     
 }
