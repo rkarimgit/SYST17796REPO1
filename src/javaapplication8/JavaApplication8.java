@@ -32,6 +32,7 @@ public class JavaApplication8 {
 	         // display the year and the amount
 	         System.out.printf("%4d%,20.3f%n", year, amount);
               }
+	    System.out.println("thank you");
     }
     
 }
